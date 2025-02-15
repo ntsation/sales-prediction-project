@@ -123,4 +123,3 @@ Example Response:
   "prediction": 200.45
 }
 ```
-```
